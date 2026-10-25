@@ -1,4 +1,4 @@
-case_id,deletion_status,steps_json
+deletion_status,steps_json
 case_01,COMPLETE,"[{""evidence_id"":""evidence_54"",""operation"":""VERIFY_RECORD_ABSENT"",""phase"":""VERIFICATION"",""resource_id"":""account_001"",""state"":""ABSENT"",""step_no"":1,""system_id"":""account_service""}]"
 case_02,COMPLETE,"[{""evidence_id"":""evidence_54"",""operation"":""VERIFY_RECORD_ABSENT"",""phase"":""VERIFICATION"",""resource_id"":""account_002"",""state"":""ABSENT"",""step_no"":1,""system_id"":""account_service""}]"
 case_03,COMPLETE,"[{""step_no"":1,""phase"":""VERIFICATION"",""system_id"":""account_service"",""resource_id"":""account_7566"",""operation"":""VERIFY_RECORD_ABSENT"",""state"":""ABSENT"",""evidence_id"":""evidence_94""},{""step_no"":2,""phase"":""VERIFICATION"",""system_id"":""security_service"",""resource_id"":""audit_record_2016"",""operation"":""VERIFY_RECORD_PRESENT"",""state"":""PRESENT"",""evidence_id"":""evidence_94""},{""step_no"":3,""phase"":""VERIFICATION"",""system_id"":""analytics_platform"",""resource_id"":""analytics_9406"",""operation"":""VERIFY_RECORD_ANONYMIZED"",""state"":""ANONYMIZED"",""evidence_id"":""evidence_94""}]"

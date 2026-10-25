@@ -10,7 +10,8 @@ For each request, the agent must first determine whether deletion was actually r
 
 Read [`problem_statement.md`](./problem_statement.md) for the complete challenge contract.
 
----
+
+----
 
 ## Quick Start
 
